@@ -1,114 +1,113 @@
-<!--
-  THE HAPPY PATH IS HALF THE STORY
-  Personal engineering notebook for Nam Nguyen.
-  This README favors inspectable work over badges and generated counters.
--->
+<!-- A hand-curated GitHub profile. No generated stats, typewriter banner or giant hero. -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="The happy path is half the story — engineering notebook of Nam Nguyen">
-</picture>
+<p align="left">
+  <sub>NGUYỄN VƯƠNG QUỐC NAM &nbsp; / &nbsp; SOFTWARE DEVELOPMENT &nbsp; / &nbsp; VIETNAM</sub>
+</p>
 
-<sub>NGUYỄN VƯƠNG QUỐC NAM &nbsp; / &nbsp; FPT UNIVERSITY &nbsp; / &nbsp; SOFTWARE ENGINEERING</sub>
+# Hey, I'm Nam.
 
-<br><br>
+I study IT at **FPT University** and build things on both sides of the API.
 
-**Most demos stop at `200 OK`. I want to understand the rest.**
+**React / TypeScript** when I'm working on the interface. **Java / Spring Boot** when I'm working on what happens behind it. Lately I've been exploring **3D web experiences**, **microservices**, and **how to test the cases that usually get overlooked**.
 
-I build and study web systems with Java, Spring Boot, and modern frontend tools. My interests tend to lead me beyond the visible screen: API contracts, data integrity, concurrency, and what happens when a request doesn't go as planned.
-
-**[01 / Field notes](#01--field-notes)** &nbsp;·&nbsp; **[02 / Systems in progress](#02--systems-in-progress)** &nbsp;·&nbsp; **[03 / Contact](#03--open-a-conversation)**
+[**Projects**](#selected-work) &nbsp;·&nbsp; [**What I'm using**](#my-toolkit) &nbsp;·&nbsp; [**Email**](mailto:namquoc725@gmail.com)
 
 ---
 
-## 01 / Field notes
+## My toolkit
 
-### Case 001 — When two valid requests arrive together
+These aren't skill percentages. They're technologies I use across my repositories, grouped by the work I do with them.
 
-**Student OJT Registration** · Java 21 / Spring Boot / JPA / H2
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <sub>01 / FRONTEND</sub>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="21" height="21" alt="React"> &nbsp; <b>React</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="21" height="21" alt="TypeScript"> &nbsp; <b>TypeScript</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="21" height="21" alt="Next.js"> &nbsp; Next.js<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="21" height="21" alt="Tailwind CSS"> &nbsp; Tailwind CSS<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="21" height="21" alt="Three.js"> &nbsp; Three.js / R3F
+    </td>
+    <td width="33%" valign="top">
+      <sub>02 / BACKEND</sub>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="21" height="21" alt="Java"> &nbsp; <b>Java 21</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="21" height="21" alt="Spring Boot"> &nbsp; <b>Spring Boot</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="21" height="21" alt="Spring Cloud"> &nbsp; Spring Cloud<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="21" height="21" alt="Hibernate"> &nbsp; JPA / Hibernate<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="21" height="21" alt="Maven"> &nbsp; Maven / REST APIs
+    </td>
+    <td width="33%" valign="top">
+      <sub>03 / DATA & WORKFLOW</sub>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="21" height="21" alt="PostgreSQL"> &nbsp; PostgreSQL<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="21" height="21" alt="MySQL"> &nbsp; MySQL<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="21" height="21" alt="Docker"> &nbsp; Docker<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="21" height="21" alt="Git"> &nbsp; Git / GitHub Actions<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="21" height="21" alt="JUnit"> &nbsp; JUnit / API testing
+    </td>
+  </tr>
+</table>
 
-An API isn't reliable just because its happy path returns `201`. Two registration requests can both pass a preliminary duplicate check before either reaches the database.
+<sub>Also experimenting with GSAP, React Three Fiber and frontend motion systems. You can see those experiments in the source, not on a progress bar.</sub>
+
+---
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / INTERACTIVE WEB</sub>
+      <h3><a href="https://github.com/namquoc130425/garage-oto-quocdung-vipecode">Garage Quốc Dũng</a></h3>
+      An automotive web experience exploring richer UI, 3D assets and motion.<br><br>
+      <code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>GSAP</code><br><br>
+      The interesting part for me: making interactions feel intentional without making the site hard to use.<br><br>
+      <a href="https://github.com/namquoc130425/garage-oto-quocdung-vipecode"><b>Source & project docs →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / API ENGINEERING</sub>
+      <h3><a href="https://github.com/namquoc130425/Student-OJT-Registration">Student OJT Registration</a></h3>
+      A Spring Boot registration API with validation, privacy-conscious responses and duplicate protection.<br><br>
+      <code>Java 21</code> <code>Spring Boot</code> <code>JPA</code> <code>JUnit</code><br><br>
+      <b>80 JUnit tests · 10/10 local API checks</b> recorded in the project's verification report (29 Oct 2026). Includes concurrency tests for duplicate registrations.<br><br>
+      <a href="https://github.com/namquoc130425/Student-OJT-Registration"><b>Source →</b></a> &nbsp;·&nbsp; <a href="https://github.com/namquoc130425/Student-OJT-Registration/blob/main/docs/STEP_5_VERIFICATION.md">Test evidence</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / BACKEND LAB</sub>
+      <h3><a href="https://github.com/namquoc130425/Spring-Boot-Microservices">Spring Boot Microservices</a></h3>
+      A place to learn service boundaries, discovery, externalized configuration and gateway routing.<br><br>
+      <code>Spring Cloud</code> <code>Eureka</code> <code>API Gateway</code> <code>CI</code><br><br>
+      <a href="https://github.com/namquoc130425/Spring-Boot-Microservices"><b>Browse the lab →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / CODE REVIEW</sub>
+      <h3><a href="https://github.com/namquoc130425/AITaster_BE">AITaster Backend</a></h3>
+      Reviewing tricky flows around wallets, concurrent operations, access control and payment webhooks.<br><br>
+      <code>Java</code> <code>Spring Boot</code> <code>MySQL</code><br><br>
+      The release review records risks and suggested fixes; it isn't a claim that all of them are resolved.<br><br>
+      <a href="https://github.com/namquoc130425/AITaster_BE/blob/main/CODE_REVIEW_RELEASE_V0_6.md"><b>Read the actual review →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## What's open in my editor
 
 ```text
-REQUEST A ──┐
-            ├── both pass "not registered yet"
-REQUEST B ──┘
-                 ↓
-           DATABASE UNIQUE RULE
-                 ↓
-          201 CREATED  /  409 CONFLICT
+UI / interaction     → React, TypeScript, 3D on the web
+Backend / reliability → Spring Boot, validation, testing
+Architecture          → Service discovery, config, gateway, CI
 ```
 
-**What this repository demonstrates:**
+I'm still figuring a lot of this out. That's why I keep the experiments, docs and tests in public repos.
 
-- Validation isn't the same as data integrity. Database constraints still matter.
-- An API response should protect personal information: phone and national ID values are masked.
-- Failures have contracts too: invalid data `400`, duplicate record `409`, missing record `404`.
-- Concurrency deserves a real test, not a hopeful assumption.
+If you're reviewing my work, I'd rather you **open a project** than judge me by a language chart.
 
-**Evidence, not slogans:** the repository documents **80 JUnit tests passing and 10/10 local cURL checks** on **29 Oct 2026**. These are recorded local verification results, **not** a claim of production performance or code coverage.
+**[All repositories](https://github.com/namquoc130425?tab=repositories)** &nbsp; / &nbsp; **[Email me](mailto:namquoc725@gmail.com)**
 
-[Explore source](https://github.com/namquoc130425/Student-OJT-Registration) · [Architecture decisions](https://github.com/namquoc130425/Student-OJT-Registration/blob/main/docs/ARCHITECTURE.md) · [Verification report](https://github.com/namquoc130425/Student-OJT-Registration/blob/main/docs/STEP_5_VERIFICATION.md)
-
----
-
-### Case 002 — A system is more than a service
-
-**Spring Boot Microservices** · Service Discovery / Config Server / API Gateway / Java 21
-
-A hands-on lab for understanding how independently running services find each other, share configuration, and build reliably.
-
-The repository separates services into their own modules and CI jobs. I am interested in the trade-offs here: **what should be distributed, what should stay simple, and what happens when a dependency is unavailable?**
-
-[Explore lab](https://github.com/namquoc130425/Spring-Boot-Microservices) · [Read CI notes](https://github.com/namquoc130425/Spring-Boot-Microservices/blob/main/docs/ci.md)
-
----
-
-### Case 003 — The uncomfortable questions before release
-
-**AITaster Backend** · Code review / Wallet workflows / Webhooks
-
-Some of the most important engineering work begins with questions rather than features:
-
-> What prevents a retried payment webhook from crediting an account twice?  
-> What happens if two requests try to spend the same balance concurrently?  
-> Which endpoint exposes more data than its caller should see?
-
-My [release review notes](https://github.com/namquoc130425/AITaster_BE/blob/main/CODE_REVIEW_RELEASE_V0_6.md) investigate these risks and propose changes. This is a **review artifact** — not proof that every recommended fix has already been implemented.
-
-[Explore repository](https://github.com/namquoc130425/AITaster_BE) · [Read the review](https://github.com/namquoc130425/AITaster_BE/blob/main/CODE_REVIEW_RELEASE_V0_6.md)
-
----
-
-## 02 / Systems in progress
-
-```text
-CURRENTLY EXPLORING
-├─ Java & Spring Boot       API design, transactions, tests
-├─ Distributed systems     Gateway, discovery, configuration
-├─ React / TypeScript      Clear interfaces, meaningful feedback
-└─ Engineering discipline  CI, code review, documented decisions
-```
-
-I don't want a wall of logos to stand in for experience. The repositories above are where the details live — including unfinished work, decisions I might revisit, and problems I'm still learning to solve.
-
-<details>
-<summary><b>Three questions I'm keeping open</b></summary>
-<br>
-
-1. How do you make a repeated request safe by design rather than by accident?
-2. What should a client know when the server fails, without revealing sensitive internals?
-3. When does a microservice boundary solve a real problem — and when does it merely add complexity?
-
-</details>
-
----
-
-## 03 / Open a conversation
-
-If you've found a flaw in my reasoning, a better design, or an interesting problem worth building, I'd like to hear it.
-
-**[Email me](mailto:namquoc725@gmail.com)** &nbsp;·&nbsp; **[Browse my repositories](https://github.com/namquoc130425?tab=repositories)**
-
-<sub>Built as a technical field notebook, not a trophy shelf. Updated as the work changes.</sub>
+<sub>Last edited November 2026 · A GitHub README, not a résumé generator.</sub>
