@@ -1,21 +1,113 @@
-#  About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Nam Nguyen**   <br>🎓 IT Student at **FPT University** in Vietnam  <br><br>💻 Currently learning:<br>- Java Programming<br>- Web Development<br>- Database Systems<br><br>🚀 My goal is to become a **professional software developer** and build useful applications.
+<!-- A hand-curated GitHub profile. No generated stats, typewriter banner or giant hero. -->
 
+<p align="left">
+  <sub>NGUYỄN VƯƠNG QUỐC NAM &nbsp; / &nbsp; SOFTWARE DEVELOPMENT &nbsp; / &nbsp; VIETNAM</sub>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034602255751) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nwm_ng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namquoc725@gmail.com)
+# Hey, I'm Nam.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=namquoc130425&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=namquoc130425&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namquoc130425&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I study IT at **FPT University** and build things on both sides of the API.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=namquoc130425&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**React / TypeScript** when I'm working on the interface. **Java / Spring Boot** when I'm working on what happens behind it. Lately I've been exploring **3D web experiences**, **microservices**, and **how to test the cases that usually get overlooked**.
+
+[**Projects**](#selected-work) &nbsp;·&nbsp; [**What I'm using**](#my-toolkit) &nbsp;·&nbsp; [**Email**](mailto:namquoc725@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=namquoc130425&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My toolkit
+
+These aren't skill percentages. They're technologies I use across my repositories, grouped by the work I do with them.
+
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <sub>01 / FRONTEND</sub>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="21" height="21" alt="React"> &nbsp; <b>React</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="21" height="21" alt="TypeScript"> &nbsp; <b>TypeScript</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="21" height="21" alt="Next.js"> &nbsp; Next.js<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="21" height="21" alt="Tailwind CSS"> &nbsp; Tailwind CSS<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="21" height="21" alt="Three.js"> &nbsp; Three.js / R3F
+    </td>
+    <td width="33%" valign="top">
+      <sub>02 / BACKEND</sub>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="21" height="21" alt="Java"> &nbsp; <b>Java 21</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="21" height="21" alt="Spring Boot"> &nbsp; <b>Spring Boot</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="21" height="21" alt="Spring Cloud"> &nbsp; Spring Cloud<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="21" height="21" alt="Hibernate"> &nbsp; JPA / Hibernate<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="21" height="21" alt="Maven"> &nbsp; Maven / REST APIs
+    </td>
+    <td width="33%" valign="top">
+      <sub>03 / DATA & WORKFLOW</sub>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="21" height="21" alt="PostgreSQL"> &nbsp; PostgreSQL<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="21" height="21" alt="MySQL"> &nbsp; MySQL<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="21" height="21" alt="Docker"> &nbsp; Docker<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="21" height="21" alt="Git"> &nbsp; Git / GitHub Actions<br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="21" height="21" alt="JUnit"> &nbsp; JUnit / API testing
+    </td>
+  </tr>
+</table>
+
+<sub>Also experimenting with GSAP, React Three Fiber and frontend motion systems. You can see those experiments in the source, not on a progress bar.</sub>
+
+---
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / INTERACTIVE WEB</sub>
+      <h3><a href="https://github.com/namquoc130425/garage-oto-quocdung-vipecode">Garage Quốc Dũng</a></h3>
+      An automotive web experience exploring richer UI, 3D assets and motion.<br><br>
+      <code>React</code> <code>TypeScript</code> <code>Three.js</code> <code>GSAP</code><br><br>
+      The interesting part for me: making interactions feel intentional without making the site hard to use.<br><br>
+      <a href="https://github.com/namquoc130425/garage-oto-quocdung-vipecode"><b>Source & project docs →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / API ENGINEERING</sub>
+      <h3><a href="https://github.com/namquoc130425/Student-OJT-Registration">Student OJT Registration</a></h3>
+      A Spring Boot registration API with validation, privacy-conscious responses and duplicate protection.<br><br>
+      <code>Java 21</code> <code>Spring Boot</code> <code>JPA</code> <code>JUnit</code><br><br>
+      <b>80 JUnit tests · 10/10 local API checks</b> recorded in the project's verification report (29 Oct 2026). Includes concurrency tests for duplicate registrations.<br><br>
+      <a href="https://github.com/namquoc130425/Student-OJT-Registration"><b>Source →</b></a> &nbsp;·&nbsp; <a href="https://github.com/namquoc130425/Student-OJT-Registration/blob/main/docs/STEP_5_VERIFICATION.md">Test evidence</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / BACKEND LAB</sub>
+      <h3><a href="https://github.com/namquoc130425/Spring-Boot-Microservices">Spring Boot Microservices</a></h3>
+      A place to learn service boundaries, discovery, externalized configuration and gateway routing.<br><br>
+      <code>Spring Cloud</code> <code>Eureka</code> <code>API Gateway</code> <code>CI</code><br><br>
+      <a href="https://github.com/namquoc130425/Spring-Boot-Microservices"><b>Browse the lab →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / CODE REVIEW</sub>
+      <h3><a href="https://github.com/namquoc130425/AITaster_BE">AITaster Backend</a></h3>
+      Reviewing tricky flows around wallets, concurrent operations, access control and payment webhooks.<br><br>
+      <code>Java</code> <code>Spring Boot</code> <code>MySQL</code><br><br>
+      The release review records risks and suggested fixes; it isn't a claim that all of them are resolved.<br><br>
+      <a href="https://github.com/namquoc130425/AITaster_BE/blob/main/CODE_REVIEW_RELEASE_V0_6.md"><b>Read the actual review →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## What's open in my editor
+
+```text
+UI / interaction     → React, TypeScript, 3D on the web
+Backend / reliability → Spring Boot, validation, testing
+Architecture          → Service discovery, config, gateway, CI
+```
+
+I'm still figuring a lot of this out. That's why I keep the experiments, docs and tests in public repos.
+
+If you're reviewing my work, I'd rather you **open a project** than judge me by a language chart.
+
+**[All repositories](https://github.com/namquoc130425?tab=repositories)** &nbsp; / &nbsp; **[Email me](mailto:namquoc725@gmail.com)**
+
+<sub>Last edited November 2026 · A GitHub README, not a résumé generator.</sub>
